@@ -1,0 +1,16 @@
+_CPack_Packages/
+build/
+install_manifest.txt
+macOS.build/
+lbullet.xml
+lnjli.xml
+opengl_2.xml
+opengl_es_2.xml
+tests/macOS.build/
+
+CMakeFiles/
+CMakeScripts/
+
+CMakeCache.txt
+cmake_install.cmake
+
